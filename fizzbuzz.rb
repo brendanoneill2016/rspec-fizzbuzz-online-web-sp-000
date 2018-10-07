@@ -3,7 +3,7 @@
 
 def fizzbuzz(number)
   
-  if number % 3 == 0 
+  if number % 3 == 1 
     puts "Fizz"
   else
     puts "Nada"
